@@ -10,7 +10,7 @@
       ...
     }
     
-    repository层，写了@Insert注解
+ repository层，写了@Insert注解
     
  二、app.main中指定数据访问接口的包名
  
